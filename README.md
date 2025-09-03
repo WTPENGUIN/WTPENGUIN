@@ -23,4 +23,4 @@
 - FastAPI
 - Flutter
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWTPENGUIN)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FWTPENGUIN?color=blue&label=hits&size=small)](https://myhits.vercel.app)
